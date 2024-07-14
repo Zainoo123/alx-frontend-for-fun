@@ -48,4 +48,3 @@ Convert `**bold**` to `<b>bold</b>` and `__emphasis__` to `<em>emphasis</em>`.
 
 - **GitHub:** `alx-frontend-for-fun`
 - **File:** `markdown2html.py`
-
