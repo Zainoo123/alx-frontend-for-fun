@@ -1,9 +1,9 @@
-/* change button color on hover*/
-$color: #FF0000;
-$color2: #00FF00;
+/* Sass file */
+$color-0: #FF0000;
+$color-1: #00FF00;
 button {
-	color: $color;
-	&:hover {
-		color: $color2;
-	}
+  color: $color-0;
+  &:hover {
+    color: $color-1;
+  }
 }
