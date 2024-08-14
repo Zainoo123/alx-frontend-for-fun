@@ -1,10 +1,10 @@
 // Set the default text color of button tags to red (#FF0000)
 button {
-  color: #FF0000;
+  color: #FF0000; // Default color
 
   // Change the text color to green (#00FF00) when the button is hovered over
   &:hover {
-    color: #00FF00;
+    color: #00FF00; // Hover color
   }
 }
 
